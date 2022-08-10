@@ -1,3 +1,3 @@
 # Python
 
-## [Pyformat](https://pyformat.info/#string_pad_align)
+## [Pyformat](https://pyformat.info/) For padding numbers:https://pyformat.info/#number_padding 
